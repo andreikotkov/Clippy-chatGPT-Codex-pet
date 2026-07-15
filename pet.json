@@ -1,0 +1,7 @@
+{
+  "id": "clippy",
+  "displayName": "Clippy",
+  "description": "The classic glossy silver paperclip assistant with oversized white eyes, black pupils, and expressive black eyebrows.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
