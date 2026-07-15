@@ -9,7 +9,8 @@ Ready-to-use visuals of nostalgic desktop pet Clippy
 
 
 ## 1) Installation 
-**Dafault path:**
+Put **pet.json** and **spritesheet.webp** in ->
+Dafault path:
 ```bash
 C:\Users\[YOUR_USERNAME]\.codex\pets\clippy
 ```
