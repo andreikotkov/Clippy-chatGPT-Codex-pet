@@ -2,9 +2,11 @@
 
 Ready-to-use visuals of nostalgic desktop pet Clippy
 
+<!-- Centering the first photo using a div tag -->
+<div align="center">
+  <img src="look-directions.png" alt="Clippy" />
+</div>
 
-![Clippy](look-directions.png)
----
 
 ## 1) Installation 
 **Dafault path:**
@@ -20,4 +22,6 @@ Detailing all the available animation frames
 
 ![Clippy2](contact-sheet.png)
 
-📎ENJOY!📎
+<p align="center" style="color: red;">
+📎<strong>ENJOY!</strong>📎
+</p>
